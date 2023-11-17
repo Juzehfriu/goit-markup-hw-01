@@ -1,4 +1,4 @@
-body {
+/* body {
   display: block;
   margin: 8px;
 }
@@ -612,7 +612,7 @@ footer {
       height: 24px;
       left: 156px;
       /* bottom: 24px; */
-      position: absolute;
+      /* position: absolute;
       justify-content: flex-start;
       align-items: center;
       display: inline-flex;
@@ -642,4 +642,4 @@ footer {
       }
     }
   }
-}
+} */ */
